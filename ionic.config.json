@@ -1,0 +1,7 @@
+{
+  "name": "Agedex",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
